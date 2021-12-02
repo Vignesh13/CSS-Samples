@@ -1,0 +1,45 @@
+body {
+    background-color: #e0e8ff;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
+
+.OrderContent {
+    margin-left: 520px;
+    margin-top: 100px;
+    background-color: #ffff;
+    width: 450px;
+    height: 580px;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 8px 8px #c7d0f7;
+}
+
+.OrderContent img {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.title1 {
+    font-size: xx-large;
+    font-family: Arial, sans-serif;
+    color: #273252;
+    font-weight: bold;
+}
+
+.title2 {
+    color: #9296a9;
+}
+
+.payment {
+    width: 320px;
+    height: 70px;
+    background-color: #f8f9fe;
+    border-radius: 10px;
+    box-shadow: 2px 2px #dde0ee;
+    margin-left: 60px;
+}
+
+.payment img {
+    margin-top: 13px;
+}
